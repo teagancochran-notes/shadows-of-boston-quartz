@@ -3,14 +3,14 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Shadows of Boston",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "https://teagancochran-notes.github.io/shadows-of-boston-quartz/",
+    ignorePatterns: ["private", "templates", ".obsidian", "z_*"],
     defaultDateType: "created",
     theme: {
       typography: {
