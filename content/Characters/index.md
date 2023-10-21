@@ -1,0 +1,43 @@
+---
+tags: MOC/1
+---
+%% Begin Waypoint %%
+- **NPCs**
+	- [[./NPCs/Benjamin|Benjamin]]
+	- [[./NPCs/Damien Hausberg|Damien Hausberg]]
+	- [[./NPCs/Damien|Damien]]
+	- [[./NPCs/Dean|Dean]]
+	- [[./NPCs/Desirae|Desirae]]
+	- [[./NPCs/Dollar Store Sheriff|Dollar Store Sheriff]]
+	- [[./NPCs/Emmitt Delmar|Emmitt Delmar]]
+	- [[./NPCs/Felix|Felix]]
+	- [[./NPCs/Hawk|Hawk]]
+	- [[./NPCs/Kenji|Kenji]]
+	- [[./NPCs/Kiki|Kiki]]
+	- [[./NPCs/Kirkman|Kirkman]]
+	- [[./NPCs/Lily Mareno|Lily Mareno]]
+	- [[./NPCs/Louisa Sinclair|Louisa Sinclair]]
+	- [[./NPCs/Mark 1|Mark 1]]
+	- [[./NPCs/Melissa Bourke|Melissa Bourke]]
+	- [[./NPCs/Michael|Michael]]
+	- [[./NPCs/Myers Fuller|Myers Fuller]]
+	- [[./NPCs/Oisin|Oisin]]
+	- [[./NPCs/Owl|Owl]]
+	- [[./NPCs/Sarah Border|Sarah Border]]
+	- [[./NPCs/Sebastian|Sebastian]]
+	- [[./NPCs/Sophia|Sophia]]
+	- [[./NPCs/Styks|Styks]]
+	- [[./NPCs/Swan|Swan]]
+	- [[./NPCs/The Butcher|The Butcher]]
+	- [[./NPCs/Trisha|Trisha]]
+	- [[./NPCs/Vin|Vin]]
+	- [[./NPCs/Werewolf|Werewolf]]
+	- [[./NPCs/Yasmin|Yasmin]]
+- **PCs**
+	- [[./PCs/Amelia|Amelia]]
+	- [[./PCs/Maggie|Maggie]]
+	- [[./PCs/Sasha|Sasha]]
+	- [[./PCs/Saul|Saul]]
+	- [[./PCs/Zeffér|Zeffér]]
+
+%% End Waypoint %%
