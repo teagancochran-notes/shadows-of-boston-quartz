@@ -17,7 +17,7 @@ pcs:
   - "[[../Characters/PCs/Sasha|Sasha]]"
   - "[[../Characters/PCs/Amelia|Amelia]]"
 active-npcs:
-  - "[[Trisha|Trisha]]"
+  - "[[../Characters/NPCs/Trisha|Trisha]]"
   - "[[../Characters/NPCs/Damien Hausberg|Damien Hausberg]]"
   - "[[../Characters/NPCs/Mark 1|Mark 1]]"
   - "[[../Characters/NPCs/Louisa Sinclair|Louisa]]"
@@ -25,7 +25,7 @@ active-npcs:
   - "[[../Characters/NPCs/Myers Fuller|Myers]]"
   - "[[../Characters/NPCs/Kirkman|Kirkman]]"
   - "[[../Characters/NPCs/Yasmin|Yasmin]]"
-  - "[[../Characters/NPCs/Emmitt Delmar|Marcus Olsen]]"
+  - "[[../Characters/NPCs/Emmitt Delmar|Emmitt]]"
 mentioned-npcs:
   - "[[Samson Sutherland|Samson Sutherland]]"
   - "[[../Characters/NPCs/Sophia|Sophie Sutherland]]"
@@ -43,9 +43,11 @@ mentioned-npcs:
 | File                                                    | Organisations                             |
 | ------------------------------------------------------- | ----------------------------------------- |
 | [[../Characters/NPCs/Damien Hausberg\|Damien Hausberg]] | \-                                        |
+| [[../Characters/NPCs/Damien\|Damien]]                   | [[../Organisations/Regatta\|Regatta]]     |
 | [[../Characters/NPCs/Dean\|Dean]]                       | [[../Organisations/Anarchs\|Anarchs]]     |
 | [[../Characters/NPCs/Emmitt Delmar\|Emmitt Delmar]]     | [[../Organisations/Regatta\|Regatta]]     |
 | [[../Characters/NPCs/Desirae\|Desirae]]                 |                                           |
+| [[../Characters/NPCs/Felix\|Felix]]                     | \-                                        |
 | [[../Characters/NPCs/Kiki\|Kiki]]                       |                                           |
 | [[../Characters/NPCs/Kirkman\|Kirkman]]                 | [[../Organisations/Camarilla\|Camarilla]] |
 | [[../Characters/NPCs/Louisa Sinclair\|Louisa Sinclair]] | [[../Organisations/Anarchs\|Anarchs]]     |
@@ -54,6 +56,7 @@ mentioned-npcs:
 | [[../Characters/NPCs/Myers Fuller\|Myers Fuller]]       | [[../Organisations/Anarchs\|Anarchs]]     |
 | [[../Characters/NPCs/Sarah Border\|Sarah Border]]       |                                           |
 | [[../Characters/NPCs/Sophia\|Sophia]]                   | \-                                        |
+| [[../Characters/NPCs/Swan\|Swan]]                       | [[../Organisations/Regatta\|Regatta]]     |
 | [[../Characters/NPCs/Trisha\|Trisha]]                   | [[../Organisations/Regatta\|Regatta]]     |
 | [[../Characters/NPCs/Yasmin\|Yasmin]]                   | [[../Organisations/Anarchs\|Anarchs]]     |
 | [[../Characters/PCs/Amelia\|Amelia]]                    |                                           |
@@ -65,6 +68,7 @@ mentioned-npcs:
 
 # Recording
 <iframe width="100%" height="100" src="https://www.youtube.com/embed/_xd6sa2bHdg?modestbranding=1&rel=0" title="VtM Shadows of Boston - Session 4 - Torpor" frameborder="0"></iframe>
+
 # Notes
 ## Myth of Baba Yaga
 - She came from overseas but looked upon [[../Places/Boston/index|Boston]] and called it her home
@@ -84,11 +88,11 @@ mentioned-npcs:
 	- [[../Characters/PCs/Saul|Saul]] hears heeled shoes exit
 	- [[../Characters/PCs/Saul|Saul]] isn't staked but is muzzled
 ## [[../Characters/PCs/Amelia|Amelia]]
-- [[Felix|Felix]] has left for a couple weeks and her new bodyguards don't know treat her
+- [[../Characters/NPCs/Felix|Felix]] has left for a couple weeks and her new bodyguards don't know treat her
 - [[../Characters/PCs/Amelia|Amelia]] tells off her bodyguards for not waking her up
-	- Weren't trained by [[Felix|Felix]]
+	- Weren't trained by [[../Characters/NPCs/Felix|Felix]]
 - [[../Characters/PCs/Amelia|Amelia]] has a missed call from [[../Characters/NPCs/Kirkman|Kirkman]] and returns the call
-	- [[../Characters/NPCs/Kirkman|Kirkman]] says that she saved asses at the [[Art Gallery Opening|Art Gallery Opening]]
+	- [[../Characters/NPCs/Kirkman|Kirkman]] says that she saved asses at the [[../Events/Art Gallery Opening|Art Gallery Opening]]
 	- [[../Characters/NPCs/Kirkman|Kirkman]] wants a meeting at south side of [[../Places/Boston/index|Boston]] at an upper class dive bar
 - Meeting with [[../Characters/NPCs/Kirkman|Kirkman]]
 	- [[../Characters/NPCs/Kirkman|Kirkman]]'s assistant pulls out chair for her when she arrives
@@ -97,7 +101,7 @@ mentioned-npcs:
 		- Not made of money but being taken care of
 		- Has a sizable hand gun
 	- [[../Characters/NPCs/Kirkman|Kirkman]] thinks that [[../Characters/NPCs/Oisin|Oisin]] has made [[../Places/Boston/index|Boston]] a shit hole by halting opportunity and taking 'tribute' from businesses who want to operate in [[../Places/Boston/index|Boston]]
-	- [[../Characters/NPCs/Kirkman|Kirkman]] usually sticks with [[Ventrue|Ventrue]] but sometimes works with people he finds passionate that can light a fire under people
+	- [[../Characters/NPCs/Kirkman|Kirkman]] usually sticks with [[../../Ventrue|Ventrue]] but sometimes works with people he finds passionate that can light a fire under people
 	- [[../Characters/NPCs/Kirkman|Kirkman]] says he doesn't want [[../Places/Boston/index|Boston]], just businesses in [[../Places/Boston/index|Boston]]
 	- [[../Characters/PCs/Amelia|Amelia]] wants safety for her family and [[../Characters/NPCs/Oisin|Oisin]] to get out
 	- [[../Characters/NPCs/Kirkman|Kirkman]] says there is no backbone to rid [[../Characters/NPCs/Oisin|Oisin]] and he prefers finance over conquest and doesn't have the passion to overthrow things but has resources
@@ -105,35 +109,35 @@ mentioned-npcs:
 	- [[../Characters/NPCs/Kirkman|Kirkman]] organises her new guards
 	- [[../Characters/PCs/Amelia|Amelia]] agrees
 	- [[../Characters/NPCs/Kirkman|Kirkman]] asks her to convince three contacts of his to give her their backing and he will throw all his resources behind her
-		- By endorsing her, he is forsaking the [[Camarilla|Camarilla]] back in [[New York|New York]] and won't be able to go back
+		- By endorsing her, he is forsaking the [[../Organisations/Camarilla|Camarilla]] back in [[../Places/New York/index|New York]] and won't be able to go back
 	- [[../Characters/NPCs/Kirkman|Kirkman]] takes her to the back room to drink
 ## [[../Characters/PCs/Zeffér|Zeffér]] and [[../Characters/PCs/Maggie|Maggie]] @ [[../Places/Boston/Regatta HQ|Regatta HQ]] Food Court
 - New age industry building
 - Got a day or two until [[../Characters/PCs/Saul|Saul]]'s interrogation
 - Just had a meeting where we were praised for our efforts
-- Sitting with [[Trisha|Trisha]] and [[Damien|Damien]]
-- [[Damien|Damien]]
+- Sitting with [[../Characters/NPCs/Trisha|Trisha]] and [[../Characters/NPCs/Damien|Damien]]
+- [[../Characters/NPCs/Damien|Damien]]
 	- Early twenties
 	- Child of [[Goose|Goose]]
-	- Mask is a [[Damien|Duck]] which [[../Characters/PCs/Maggie|Maggie]] and [[../Characters/PCs/Zeffér|Zeffér]] tease him about
-	- [[Brujah|Brujah]]
+	- Mask is a [[../Characters/NPCs/Damien|Duck]] which [[../Characters/PCs/Maggie|Maggie]] and [[../Characters/PCs/Zeffér|Zeffér]] tease him about
+	- [[../../Brujah|Brujah]]
 		- Newest clan to join the council
 		- Only joined a couple years ago
 		- [[../Characters/PCs/Maggie|Maggie]] was around when they joined the council
-- [[../Characters/PCs/Zeffér|Zeffér]] asked [[../Characters/PCs/Maggie|Maggie]] to look into his sire, [[Swan|Swan]] but fail to find anything
+- [[../Characters/PCs/Zeffér|Zeffér]] asked [[../Characters/PCs/Maggie|Maggie]] to look into his sire, [[../Characters/NPCs/Swan|Swan]] but fail to find anything
 	- [[../Characters/PCs/Maggie|Maggie]] doesn't even find out the sire's name
-- [[Trisha|Trisha]] offers help but we don't trust her
-	- [[Trisha|Trisha]] is still on [[../Characters/NPCs/Oisin|Oisin]] and [[../Characters/PCs/Maggie|Maggie]] tells her to focus on that
-	- [[Trisha|Trisha]] storms off
-- [[Damien|Damien]] has a couple leads (almost didn't tell us cause we teased him)
+- [[../Characters/NPCs/Trisha|Trisha]] offers help but we don't trust her
+	- [[../Characters/NPCs/Trisha|Trisha]] is still on [[../Characters/NPCs/Oisin|Oisin]] and [[../Characters/PCs/Maggie|Maggie]] tells her to focus on that
+	- [[../Characters/NPCs/Trisha|Trisha]] storms off
+- [[../Characters/NPCs/Damien|Damien]] has a couple leads (almost didn't tell us cause we teased him)
 	- They found [[Mark 2|Mark 2]] and had a guy tailing him but lost him when the guy walked into a wall backwards and disappeared
-		- Guy following can see through illusions so not a [[Nosferatu|Nosferatu]] power
+		- Guy following can see through illusions so not a [[../../Nosferatu|Nosferatu]] power
 		- Nothing on the other side of the wall
 	- After giving us the information he leaves
 - Usually people stay around but [[Brendon|Brendon]] comes and sits at the table
 	- Lab technician that doesn't seem to recognise we are higher ups
 		- Gross eater
-		- Only been working at the [[../Organisations/Regatta|organisation]] for 3 weeks
+		- Only been working at the [[../Organisations/Regatta|Regatta]] for 3 weeks
 	- [[../Characters/PCs/Maggie|Maggie]] tells him she works in Finance
 		- If she talks to people in R&D she says Finance, if talking to people from Finance she says R&D
 	- [[../Characters/PCs/Zeffér|Zeffér]] quietly asks [[../Characters/PCs/Maggie|Maggie]] if he wants to make [[Brendon|Brendon]] leave and forget since he is annoying but [[../Characters/PCs/Maggie|Maggie]] says they can just leave
@@ -250,9 +254,9 @@ mentioned-npcs:
 - [[../Characters/PCs/Maggie|Maggie]] gives him two options: help us or death
 - [[../Characters/PCs/Saul|Saul]] asks [[../Characters/PCs/Maggie|Maggie]] what we know about him and she tells him that all they know is his name
 	- Background check was unsuccessful as tests are only helpful if he was in the system
-- Regatta want [[../Characters/PCs/Saul|Saul]] for extra muscle or as a kindred hunter as the [[../Organisations/Regatta|organisation]] don't have a specialist in kindred hunter but want one affiliated and controlled but not tracible to them
+- Regatta want [[../Characters/PCs/Saul|Saul]] for extra muscle or as a kindred hunter as the [[../Organisations/Regatta|Regatta]] don't have a specialist in kindred hunter but want one affiliated and controlled but not tracible to them
 - [[../Characters/NPCs/Damien Hausberg|Damien Hausberg]] has been kept in good conditions with amenities but is not allowed to leave
-- [[../Characters/PCs/Maggie|Maggie]] offers [[../Characters/PCs/Saul|Saul]] the job saying no one else in the [[../Organisations/Regatta|organisation]] has the expertise or drive
+- [[../Characters/PCs/Maggie|Maggie]] offers [[../Characters/PCs/Saul|Saul]] the job saying no one else in the [[../Organisations/Regatta|Regatta]] has the expertise or drive
 	- [[../Characters/PCs/Saul|Saul]] rejects it saying that he is not their gun
 	- [[../Characters/PCs/Maggie|Maggie]] asks what his alternatives are
 	- [[../Characters/PCs/Saul|Saul]] says that he will meet his maker and he is not afraid
@@ -269,7 +273,7 @@ mentioned-npcs:
 			- [[../Characters/NPCs/Damien Hausberg|Damien]] knows that he isn't just being kept because he is in danger but because he know things
 			- [[../Characters/PCs/Maggie|Maggie]] says that they are protecting him
 		- [[../Characters/PCs/Saul|Saul]] asks him if he has seen anyone else from the hotel and he says that a couple are held here
-			- Three others are held by the [[../Organisations/Regatta|organisation]]
+			- Three others are held by the [[../Organisations/Regatta|Regatta]]
 			- [[../Characters/PCs/Maggie|Maggie]] says they are still figuring out what to do with them
 			- [[../Characters/PCs/Saul|Saul]] says that it seems like they have a better plan in place than he did
 			- [[../Characters/PCs/Maggie|Maggie]] tells him that unfortunately many have passed
@@ -353,7 +357,7 @@ mentioned-npcs:
 	- [[../Characters/PCs/Maggie|Maggie]] finds this odd as only usually [[../../Lasombra|Lasombra]] have issues with lights
 	- Tells the guard to keep on eye on [[../Characters/NPCs/Mark 1|him]] and she will see him shortly
 	- This guard was part of the riot control earlier
-- [[../Characters/PCs/Maggie|Maggie]] is requesting a meeting with the [[../Organisations/Regatta|organisation]] council
+- [[../Characters/PCs/Maggie|Maggie]] is requesting a meeting with the [[../Organisations/Regatta|Regatta]] council
 	- Available in a couple of hours as a couple of council members are out at the moment
 - [[../Characters/PCs/Saul|Saul]] is brought to a holding area at [[../Characters/PCs/Maggie|Maggie]]'s request
 	- Has a bed and tables, with a tv in the corner and basic utilities
@@ -364,9 +368,9 @@ mentioned-npcs:
 	- [[../Characters/PCs/Maggie|Maggie]] tells him that he won't die and [[../Characters/PCs/Saul|Saul]] replies he doesn't fear death which [[../Characters/PCs/Maggie|Maggie]] calls his bluff on
 	- [[../Characters/PCs/Maggie|Maggie]] asks what else he wants out of life
 		- [[../Characters/PCs/Saul|Saul]] replies there is no life to want anymore
-			- He wants to investigate certain individuals without prying eyes and to be able to kill kindred the [[../Organisations/Regatta|organisation]] doesn't tell him to and the firepower to do it
+			- He wants to investigate certain individuals without prying eyes and to be able to kill kindred the [[../Organisations/Regatta|Regatta]] doesn't tell him to and the firepower to do it
 			- [[../Characters/PCs/Maggie|Maggie]] questions what kind of people and firepower but [[../Characters/PCs/Saul|Saul]] replies that he hasn't decided yet
-				- [[../Characters/PCs/Saul|Saul]] says he would not target individuals against the interests of the [[../Organisations/Regatta|organisation]]
+				- [[../Characters/PCs/Saul|Saul]] says he would not target individuals against the interests of the [[../Organisations/Regatta|Regatta]]
 				- [[../Characters/PCs/Saul|Saul]] states all kindred deserve to die, present company included
 					- Does not believe kindred are alive anyway
 					- Believes the vampire infestation is worse than he thought when he was first turned
@@ -377,8 +381,8 @@ mentioned-npcs:
 						- [[../Characters/PCs/Maggie|Maggie]] tells him that she never believed in souls
 			- [[../Characters/PCs/Maggie|Maggie]] tells [[../Characters/PCs/Saul|Saul]] she will see what she can do at the meeting
 			- [[../Characters/PCs/Saul|Saul]] asks if that is all they need of him and when confirmed goes to sit on the bed
-- [[../Organisations/Regatta|organisation]] have a dungeon where the holding cells are
-- [[../Organisations/Regatta|organisation]] gen pop is where other [[../Organisations/Regatta|organisation]] employees are
+- [[../Organisations/Regatta|Regatta]] have a dungeon where the holding cells are
+- [[../Organisations/Regatta|Regatta]] gen pop is where other [[../Organisations/Regatta|Regatta]] employees are
 ### [[../Characters/PCs/Zeffér|Zeffér]]
 - [[../Characters/NPCs/Mark 1|Mark 1]] is complaining that the light burns and has been acting like this for an hour
 - [[../Characters/PCs/Zeffér|Zeffér]] asks what changed as [[../Characters/NPCs/Mark 1|Mark 1]] has been fine for 2 weeks
