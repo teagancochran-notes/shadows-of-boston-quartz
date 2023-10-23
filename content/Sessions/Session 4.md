@@ -1,15 +1,15 @@
 ---
 template-version: 1.1
 recording: https://www.youtube.com/watch?v=ZN5j4_I3n-k
+status: linking
 tags:
   - session
-  - status/linking
 date: 2022-09-11
 session: 4
 attended: true
 chapter: A Night to Remember
 title: Torpor
-summary: "[[../Characters/PCs/Saul|Saul]] meets with [[../Characters/NPCs/Kiki|Kiki]] and is introduced to Marrowbrew; [[../Characters/PCs/Maggie|Maggie]] turns a witness into her ghoul and gets important information about [[../Characters/NPCs/Kirkman|Kirkman]]'s finances, including a backer in [[../Places/LA/index|LA]]; [[../Characters/PCs/Amelia|Amelia]] meets with an [[../Characters/NPCs/Sarah Border|old friend]] and [[Zeffer|Zeffer]] has a meeting with [[Asana|his sire]] which he does not remember all of. [[../Characters/PCs/Maggie|Maggie]] and [[Zeffer|Zeffer]] look into witnesses that have reappeared at a [[../Places/Boston/Homeless Shelter|Homeless Shelter]] and learns they have been turned into a [[../../Gangrel|Gangrel]]. The night of the [[../Events/Art Gallery Opening|opening an art gallery]] comes and while [[../Characters/PCs/Maggie|Maggie]] struggles to control The Beast, [[../Characters/NPCs/The Butcher|Tabitha]] and [[../Characters/PCs/Amelia|Amelia]] find out interesting information. [[../Characters/PCs/Amelia|Amelia]] pulls off the performance of a lifetime while [[../Characters/PCs/Saul|Saul]], [[../Characters/PCs/Maggie|Maggie]], [[Zeffer|Zeffer]] and [[../Characters/NPCs/Styks|a mysterious kindred]] manage to kill hunters, [[../Characters/NPCs/Desirae|Desirae]] and [[../Characters/NPCs/Sebastian|Sebastian]]."
+summary: "[[../Characters/PCs/Saul|Saul]] meets with [[../Characters/NPCs/Kiki|Kiki]] and is introduced to Marrowbrew; [[../Characters/PCs/Maggie|Maggie]] turns a witness into her ghoul and gets important information about [[../Characters/NPCs/Kirkman|Kirkman]]'s finances, including a backer in [[../Places/LA/index|LA]]; [[../Characters/PCs/Amelia|Amelia]] meets with an [[../Characters/NPCs/Sarah Border|old friend]] and [[Zeffer|Zeffer]] has a meeting with [[Asana|his sire]] which he does not remember all of. [[../Characters/PCs/Maggie|Maggie]] and [[Zeffer|Zeffer]] look into witnesses that have reappeared at a [[../Places/Boston/Homeless Shelter|Homeless Shelter]] and learns they have been turned into a [[../../Gangrel|Gangrel]]. The night of the [[../Events/Art Gallery Opening|opening an art gallery]] comes and while [[../Characters/PCs/Maggie|Maggie]] struggles to control The Beast, [[../Characters/NPCs/The Butcher|Tabitha]] and [[../Characters/PCs/Amelia|Amelia]] find out interesting information. [[../Characters/PCs/Amelia|Amelia]] pulls off the performance of a lifetime while [[../Characters/PCs/Saul|Saul]], [[../Characters/PCs/Maggie|Maggie]], [[Zeffer|Zeffer]] and [[../Characters/NPCs/Styks|a mysterious kindred]] manage to kill hunters, [[Desirae|Desirae]] and [[../Characters/NPCs/Sebastian|Sebastian]]."
 pcs:
   - "[[../Characters/PCs/Zeffér|Zeffér]]"
   - "[[../Characters/PCs/Saul|Saul]]"
@@ -30,7 +30,7 @@ active-npcs:
   - "[[../Characters/NPCs/Swan|Asana]]"
   - "[[../Characters/NPCs/Sarah Border|an old friend]]"
   - "[[../Characters/NPCs/Mark 1|Mark 1]]"
-  - "[[../Characters/NPCs/Desirae|Desirae]]"
+  - "[[../Characters/NPCs/Desaray|Desaray]]"
   - "[[../Characters/NPCs/Michael|Michael]]"
   - "[[../Characters/NPCs/Sebastian|Sebastian]]"
 mentioned-npcs:
@@ -46,59 +46,26 @@ mentioned-npcs:
 > ![[./Session 3#^summary|Session 3 > ^summary]]
 # Summary
 An injured [[../Characters/PCs/Saul|Saul]] checks in on his family and overhears a phone call that indicates she may have a lover before meeting with [[../Characters/NPCs/Kiki|Kiki]] to gain more information about [[../Characters/NPCs/Damien Hausberg|Damien]], where he is introduced to [[../Items/Marrowbrew|Marrowbrew]] for the first time and meets [[../Characters/NPCs/Kiki|Kiki]]'s runner, [[../Characters/NPCs/Benjamin|Benjamin]].
-<br/>
+
 [[../Characters/PCs/Amelia|Amelia]] meets with an [[../Characters/NPCs/Sarah Border|an old friend]] who is [[../Events/Art Gallery Opening|opening an art gallery]] in [[../Places/Boston/index|Boston]] and agrees to attend.
-<br/>
+
 [[../Characters/PCs/Maggie|Maggie]] has interrogated [[../Characters/NPCs/Melissa Bourke|Melissa]] and found that she was previously taken by the Camarilla as they believed she knew about the [[../Organisations/Regatta|Regatta]]. [[../Characters/PCs/Maggie|Maggie]] promises to protect [[../Characters/NPCs/Melissa Bourke|Melissa]] and turned her into her [[../../Ghouls|ghoul]]. She has [[../Characters/NPCs/Melissa Bourke|Melissa]] look into [[../Characters/NPCs/Kirkman|Kirkman]] and [[Ownark|Ownark]] and tries to get a meeting with [[../Characters/NPCs/Vin|Vin]].
-<br/>
+
 [[../Characters/PCs/Zeffér|Zeffér]] is summoned to meet with his sire, Asana, who tells Zeffér that he needs to control the beast before [[../Characters/NPCs/Kenji|Kenji]] takes him to spar and impresses [[../Characters/NPCs/Kenji|Kenji]] when he blocks a surprise attack.
-<br/>
+
 [[../Characters/PCs/Maggie|Maggie]] learns that people from [[../Events/The Incident|The Incident]] are reappearing and that [[../Characters/NPCs/Kirkman|Kirkman]] is getting money from [[../Places/LA/index|LA]].
-<br/>
+
 [[../Characters/PCs/Maggie|Maggie]] and [[../Characters/PCs/Zeffér|Zeffér]] investigate a reported sighting of two reappearing witnesses at a [[../Places/Boston/Homeless Shelter|Homeless Shelter]]. They find one of their marks, a man who under [[../Characters/PCs/Maggie|Maggie]]'s [[../../Mesmerise|Mesmerise]] reveals he was rescued by a friend known as [[The Rat|The Rat]] but has little memory of [[../Events/The Incident|The Incident]]. The man is revealed to have been turned into a [[../../Gangrel|Gangrel]] as a fight breaks out, however is is restrained and taken to [[Detainment|Detainment]].
-<br/>
-[[../Characters/NPCs/Kirkman|Kirkman]] shows a sudden interest in the [[../Events/Art Gallery Opening|opening an art gallery]] and [[../Characters/PCs/Maggie|Maggie]] and [[../Characters/PCs/Zeffér|Zeffér]] are sent to find out his intentions. Meanwhile [[../Characters/PCs/Saul|Saul]] is given another opportunity to kill [[../Characters/NPCs/Desirae|Desirae]] during the [[../Events/Art Gallery Opening|event]]. 
-<br/>
-The characters attended an [[../Events/Art Gallery Opening|opening an art gallery]] where they were able to spot some of their enemies including [[../Characters/NPCs/Kirkman|Kirkman]], [[../Characters/NPCs/Desirae|Desirae]], and [[../Characters/NPCs/Sebastian|Sebastian]]. 
-<br/>
-[[../Characters/PCs/Amelia|Amelia]]'s unsuccessful tactical seduction of [[../Characters/NPCs/Kirkman|Kirkman]]'s moneyman, [[../Characters/NPCs/Michael|Michael]] is witnessed by [[../Characters/NPCs/The Butcher|The Butcher]]. [[../Characters/PCs/Maggie|Maggie]] has a compulsion to steal a sculpture and uses her abilities to steal it but begins shifting into her bestial form and is spotted by a [[../Characters/NPCs/Styks|kindred]] in the rafters. [[../Characters/PCs/Zeffér|Zeffér]] loses track of her and eventually found her huddled in a corner and is sent to check out the [[../Characters/NPCs/Styks|kindred in the rafters]]. Meanwhile, [[../Characters/PCs/Saul|Saul]] was looking for an opportunity to confront [[../Characters/NPCs/Desirae|Desirae]]. [[../Characters/NPCs/Kirkman|Kirkman]] approaches [[../Characters/PCs/Amelia|Amelia]] with an offer if she gets close to [[../Characters/NPCs/Dean|Dean]] in order to take [[../Characters/NPCs/Oisin|Oisin]] down. [[../Characters/NPCs/The Butcher|The Butcher]] learns that there are multiple deeds in the safe for the same pieces of art and informs [[../Characters/NPCs/Dean|Dean]].
-<br/>
-[[../Characters/NPCs/Desirae|Desirae]] finds [[../Characters/PCs/Saul|Saul]] and leads him to the back of the Gallery, which [[../Characters/PCs/Maggie|Maggie]] spots but is overcome with the compulsion to take [[../Characters/NPCs/Desirae|Desirae]]'s necklace. A fight ensues between [[../Characters/PCs/Saul|Saul]] and [[../Characters/NPCs/Desirae|Desirae]] when [[../Characters/PCs/Saul|Saul]] unsuccessfully attempts to stake her and is shot. [[../Characters/PCs/Maggie|Maggie]], [[../Characters/PCs/Zeffér|Zeffér]] and [[../Characters/NPCs/Styks|kindred]] join the fight against her, while [[../Characters/NPCs/Sebastian|Sebastian]] bursts in an fires on the group. [[../Characters/PCs/Maggie|Maggie]] and [[../Characters/PCs/Saul|Saul]] are successful in decapitating [[../Characters/NPCs/Desirae|Desirae]] and [[../Characters/PCs/Maggie|Maggie]] gets her hands on the necklace. [[../Characters/PCs/Saul|Saul]] is accidently staked by [[../Characters/NPCs/Styks|kindred]] and goes into [[../../Torpor|Torpor]]. [[../Characters/PCs/Zeffér|Zeffér]] shields [[../Characters/PCs/Maggie|Maggie]] from gunfire with his own body and they, along with [[../Characters/NPCs/Styks|kindred]] manage to kill [[../Characters/NPCs/Sebastian|Sebastian]]. [[../Characters/PCs/Zeffér|Zeffér]] and [[../Characters/PCs/Maggie|Maggie]] flee with [[../Characters/PCs/Saul|Saul]]'s body.
-<br/>
+
+[[../Characters/NPCs/Kirkman|Kirkman]] shows a sudden interest in the [[../Events/Art Gallery Opening|opening an art gallery]] and [[../Characters/PCs/Maggie|Maggie]] and [[../Characters/PCs/Zeffér|Zeffér]] are sent to find out his intentions. Meanwhile [[../Characters/PCs/Saul|Saul]] is given another opportunity to kill [[../Characters/NPCs/Desaray|Desaray]] during the [[../Events/Art Gallery Opening|event]]. 
+
+The characters attended an [[../Events/Art Gallery Opening|opening an art gallery]] where they were able to spot some of their enemies including [[../Characters/NPCs/Kirkman|Kirkman]], [[../Characters/NPCs/Desaray|Desaray]], and [[../Characters/NPCs/Sebastian|Sebastian]]. 
+
+[[../Characters/PCs/Amelia|Amelia]]'s unsuccessful tactical seduction of [[../Characters/NPCs/Kirkman|Kirkman]]'s moneyman, [[../Characters/NPCs/Michael|Michael]] is witnessed by [[../Characters/NPCs/The Butcher|The Butcher]]. [[../Characters/PCs/Maggie|Maggie]] has a compulsion to steal a sculpture and uses her abilities to steal it but begins shifting into her bestial form and is spotted by a [[../Characters/NPCs/Styks|kindred]] in the rafters. [[../Characters/PCs/Zeffér|Zeffér]] loses track of her and eventually found her huddled in a corner and is sent to check out the [[../Characters/NPCs/Styks|kindred in the rafters]]. Meanwhile, [[../Characters/PCs/Saul|Saul]] was looking for an opportunity to confront [[../Characters/NPCs/Desaray|Desaray]]. [[../Characters/NPCs/Kirkman|Kirkman]] approaches [[../Characters/PCs/Amelia|Amelia]] with an offer if she gets close to [[../Characters/NPCs/Dean|Dean]] in order to take [[../Characters/NPCs/Oisin|Oisin]] down. [[../Characters/NPCs/The Butcher|The Butcher]] learns that there are multiple deeds in the safe for the same pieces of art and informs [[../Characters/NPCs/Dean|Dean]].
+
+[[../Characters/NPCs/Desaray|Desaray]] finds [[../Characters/PCs/Saul|Saul]] and leads him to the back of the Gallery, which [[../Characters/PCs/Maggie|Maggie]] spots but is overcome with the compulsion to take [[../Characters/NPCs/Desaray|Desaray]]'s necklace. A fight ensues between [[../Characters/PCs/Saul|Saul]] and [[../Characters/NPCs/Desaray|Desaray]] when [[../Characters/PCs/Saul|Saul]] unsuccessfully attempts to stake her and is shot. [[../Characters/PCs/Maggie|Maggie]], [[../Characters/PCs/Zeffér|Zeffér]] and [[../Characters/NPCs/Styks|kindred]] join the fight against her, while [[../Characters/NPCs/Sebastian|Sebastian]] bursts in an fires on the group. [[../Characters/PCs/Maggie|Maggie]] and [[../Characters/PCs/Saul|Saul]] are successful in decapitating [[../Characters/NPCs/Desaray|Desaray]] and [[../Characters/PCs/Maggie|Maggie]] gets her hands on the necklace. [[../Characters/PCs/Saul|Saul]] is accidently staked by [[../Characters/NPCs/Styks|kindred]] and goes into [[../../Torpor|Torpor]]. [[../Characters/PCs/Zeffér|Zeffér]] shields [[../Characters/PCs/Maggie|Maggie]] from gunfire with his own body and they, along with [[../Characters/NPCs/Styks|kindred]] manage to kill [[../Characters/NPCs/Sebastian|Sebastian]]. [[../Characters/PCs/Zeffér|Zeffér]] and [[../Characters/PCs/Maggie|Maggie]] flee with [[../Characters/PCs/Saul|Saul]]'s body.
+
 In an attempt to keep people from leaving the show in fear, [[../Characters/PCs/Amelia|Amelia]] puts on the performance of a lifetime, even convincing [[../Characters/NPCs/Kirkman|Kirkman]] it was all part of the show. Later, [[../Characters/PCs/Amelia|Amelia]] approaches [[../Characters/NPCs/Dean|Dean]] and convinces him to leave with her. She gets him to give her information about her mother as well as [[../Characters/NPCs/Oisin|Oisin]] and at the hotel they sleep together and she gives him a [[Lingering Kiss|Lingering Kiss]].
-^summary
-# Characters
-| File                                                              | Organisations                             |
-| ----------------------------------------------------------------- | ----------------------------------------- |
-| [[../Characters/NPCs/Benjamin\|Benjamin]]                         |                                           |
-| [[../Characters/NPCs/Damien Hausberg\|Damien Hausberg]]           | \-                                        |
-| [[../Characters/NPCs/Dean\|Dean]]                                 | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/NPCs/Emmitt Delmar\|Emmitt Delmar]]               | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Desirae\|Desirae]]                           |                                           |
-| [[../Characters/NPCs/Dollar Store Sheriff\|Dollar Store Sheriff]] | [[../Organisations/Camarilla\|Camarilla]] |
-| [[../Characters/NPCs/Felix\|Felix]]                               | \-                                        |
-| [[../Characters/NPCs/Kiki\|Kiki]]                                 |                                           |
-| [[../Characters/NPCs/Kenji\|Kenji]]                               | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Kirkman\|Kirkman]]                           | [[../Organisations/Camarilla\|Camarilla]] |
-| [[../Characters/NPCs/Mark 1\|Mark 1]]                             | \-                                        |
-| [[../Characters/NPCs/Michael\|Michael]]                           | [[../Organisations/Camarilla\|Camarilla]] |
-| [[../Characters/NPCs/Melissa Bourke\|Melissa Bourke]]             |                                           |
-| [[../Characters/NPCs/Oisin\|Oisin]]                               | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/NPCs/Sarah Border\|Sarah Border]]                 |                                           |
-| [[../Characters/NPCs/Sophia\|Sophia]]                             | \-                                        |
-| [[../Characters/NPCs/Sebastian\|Sebastian]]                       | \-                                        |
-| [[../Characters/NPCs/Styks\|Styks]]                               |                                           |
-| [[../Characters/NPCs/Swan\|Swan]]                                 | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/The Butcher\|The Butcher]]                   |                                           |
-| [[../Characters/NPCs/Vin\|Vin]]                                   |                                           |
-| [[../Characters/NPCs/Trisha\|Trisha]]                             | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/PCs/Amelia\|Amelia]]                              |                                           |
-| [[../Characters/PCs/Maggie\|Maggie]]                              | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/PCs/Sasha\|Sasha]]                                | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/PCs/Saul\|Saul]]                                  |                                           |
-| [[../Characters/PCs/Zeffér\|Zeffér]]                              | [[../Organisations/Regatta\|Regatta]]     |
-
-
 # Recording
 <iframe width="100%" height="100" src="https://www.youtube.com/embed/ZN5j4_I3n-k?modestbranding=1&rel=0" title="VtM Shadows of Boston - Session 4 - Torpor" frameborder="0"></iframe>
 
@@ -130,7 +97,7 @@ In an attempt to keep people from leaving the show in fear, [[../Characters/PCs/
 		- Only got bags a couple weeks ago
 	- [[../Characters/NPCs/Kiki|Kiki]] pays for blood [21:57](https://www.youtube.com/watch?v=ZN5j4_I3n-k#t=1317.6893972708435) 
 	- [[../Characters/PCs/Saul|Saul]] believes all kindred should die
-	- [[../Characters/NPCs/Desirae|Desirae]] is a hunter [24:35](https://www.youtube.com/watch?v=ZN5j4_I3n-k#t=1475.186863125885) 
+	- [[../Characters/NPCs/Desaray|Desaray]] is a hunter [24:35](https://www.youtube.com/watch?v=ZN5j4_I3n-k#t=1475.186863125885) 
 	- [[../Characters/PCs/Saul|Saul]] wants to find [[../Characters/NPCs/Damien Hausberg|Damien]] and [[../Characters/NPCs/Kiki|Kiki]] tells him that [[../Characters/PCs/Sasha|Sasha]] works for [[../Characters/NPCs/Oisin|Oisin]] and that she will keep her ears to the floor and call on a favour from [[../Characters/NPCs/Vin|Vin]]
 	- [[../Characters/PCs/Saul|Saul]] gives [[../Characters/NPCs/Kiki|Kiki]] his pager number which she puts in her rolodex
 	- [[../Characters/NPCs/Benjamin|Benjamin]] arrives [28:01](https://www.youtube.com/watch?v=ZN5j4_I3n-k#t=1681.028498) 
@@ -241,11 +208,11 @@ In an attempt to keep people from leaving the show in fear, [[../Characters/PCs/
 - [[../Characters/NPCs/Kirkman|Kirkman]] will be attending the [[../Events/Art Gallery Opening|opening an art gallery]] [01:37:26](https://www.youtube.com/watch?v=ZN5j4_I3n-k#t=5846.127945) 
 	- He wasn't originally attending
 	- Provided a large sponsorship to the event rather suddenly
-- [[../Characters/NPCs/Vin|Vin]] contacts [[../Characters/PCs/Saul|Saul]] and tells him that [[../Characters/NPCs/Desirae|Desirae]] will be at the [[../Events/Art Gallery Opening|opening an art gallery]]
+- [[../Characters/NPCs/Vin|Vin]] contacts [[../Characters/PCs/Saul|Saul]] and tells him that [[../Characters/NPCs/Desaray|Desaray]] will be at the [[../Events/Art Gallery Opening|opening an art gallery]]
 - [[../Characters/PCs/Amelia|Amelia]] receives a call from [[../Characters/NPCs/Kirkman|Kirkman]] who says that he found out that [[../Characters/PCs/Amelia|Amelia]] would be attending the event and he had to join and meet her at the event
 - [[../Characters/NPCs/Felix|Felix]] is Northern European/Ukrainian
 - [[../Characters/PCs/Zeffér|Zeffér]] gets information that [[../Characters/NPCs/Kirkman|Kirkman]] is attending the event and [[../Organisations/Regatta|Regatta]] is concerned he may be trying to push his business further into [[../Places/Boston/index|Boston]]
-- [[../Characters/NPCs/Emmitt Delmar|Crow]] has asked [[../Characters/PCs/Maggie|Maggie]] to attend the [[../Events/Art Gallery Opening|opening an art gallery]] to see what both [[../Characters/NPCs/Kirkman|Kirkman]] and the hunters, [[../Characters/NPCs/Desirae|Desirae]] and [[../Characters/NPCs/Sebastian|Sebastian]] are up to
+- [[../Characters/NPCs/Emmitt Delmar|Crow]] has asked [[../Characters/PCs/Maggie|Maggie]] to attend the [[../Events/Art Gallery Opening|opening an art gallery]] to see what both [[../Characters/NPCs/Kirkman|Kirkman]] and the hunters, [[../Characters/NPCs/Desaray|Desaray]] and [[../Characters/NPCs/Sebastian|Sebastian]] are up to
 - Hunters have been a bigger pain than [[../Characters/NPCs/Kirkman|Kirkman]] recently
 	- [[../Characters/NPCs/Sebastian|Sebastian]] is a [[../../Toreador|Toreador]] who excels in quick kills; heard but not seen
 - All witnesses to [[../Events/The Incident|The Incident]] have been captured or killed by now
@@ -257,14 +224,14 @@ In an attempt to keep people from leaving the show in fear, [[../Characters/PCs/
 	- People that disappeared have been reseen
 		- Two seen downtown at the [[../Places/Boston/Homeless Shelter|Homeless Shelter]]
 			- [[../Characters/PCs/Maggie|Maggie]] wants to send someone to pick them up
-		- One seen walking the streets with [[../Characters/NPCs/Desirae|Desirae]] the day before
+		- One seen walking the streets with [[../Characters/NPCs/Desaray|Desaray]] the day before
 		- [[../Characters/NPCs/Kirkman|Kirkman]]'s accounts are weird
 			- He is getting a ton of money from shell companies in [[../Places/New York/index|New York]]
 			- He is getting money from [[../Places/LA/index|LA]] more than he is from [[../Places/New York/index|New York]]
 				- [[../Places/LA/index|LA]] is almost fully controlled by the [[../Organisations/Anarchs|Anarchs]]
 		- She spilt coffee on her computer and needs a new one and doesn't need a coffee runner anymore
 		- Doesn't know how to address [[../Characters/PCs/Maggie|Maggie]]
-	- [[../Characters/NPCs/Emmitt Delmar|Emmitt]] tells her to look into the people at the [[../Places/Boston/Homeless Shelter|Homeless Shelter]] but not the one with [[../Characters/NPCs/Desirae|Desirae]]
+	- [[../Characters/NPCs/Emmitt Delmar|Emmitt]] tells her to look into the people at the [[../Places/Boston/Homeless Shelter|Homeless Shelter]] but not the one with [[../Characters/NPCs/Desaray|Desaray]]
 
 ## At the [[../Places/Boston/Homeless Shelter|Homeless Shelter]] @ 2 Days before [[../Events/Art Gallery Opening|opening an art gallery]]
 * [[../Characters/PCs/Maggie|Maggie]] and [[../Characters/PCs/Zeffér|Zeffér]] go to check out the reported sighting of 2 reappearing witnesses
@@ -372,8 +339,8 @@ In an attempt to keep people from leaving the show in fear, [[../Characters/PCs/
 		- [[../Characters/NPCs/Dean|Dean]] is there as the sponsor and is looking to expand
 	- [[../Characters/NPCs/The Butcher|The Butcher]] keeps drinking from a flask
 - [[../Characters/PCs/Zeffér|Zeffér]], [[../Characters/PCs/Amelia|Amelia]], [[../Characters/NPCs/The Butcher|Tabitha]], [[../Characters/PCs/Zeffér|Zeffér]], [[../Characters/NPCs/The Butcher|Tabitha]] all notice [[../Characters/NPCs/Kirkman|Kirkman]] enter the building with three others
-	- [[../Characters/PCs/Zeffér|Zeffér]] identifies the two of the others as [[../Characters/NPCs/Desirae|Desirae]] and [[../Characters/NPCs/Sebastian|Sebastian]]
-	- [[../Characters/PCs/Saul|Saul]] spots [[../Characters/NPCs/Desirae|Desirae]]
+	- [[../Characters/PCs/Zeffér|Zeffér]] identifies the two of the others as [[../Characters/NPCs/Desaray|Desaray]] and [[../Characters/NPCs/Sebastian|Sebastian]]
+	- [[../Characters/PCs/Saul|Saul]] spots [[../Characters/NPCs/Desaray|Desaray]]
 	- No one know the [[../Characters/NPCs/Michael|third person]]
 - [[../Characters/PCs/Saul|Saul]] recognises [[../Characters/PCs/Maggie|Maggie]], [[../Characters/PCs/Amelia|Amelia]] and [[../Characters/PCs/Zeffér|Zeffér]]
 - [[../Characters/PCs/Maggie|Maggie]] has a compulsion to steal a bust sculpture, she cases the area to see if she can steal it. Realising she needs a bag she buys one of the tote bags for sale and goes back and manages to swipe the sculpture
@@ -383,13 +350,13 @@ In an attempt to keep people from leaving the show in fear, [[../Characters/PCs/
 		- He goes back into the rafters to hide
 - [[../Characters/NPCs/The Butcher|The Butcher]] sees that:
 	- [[../Characters/NPCs/Kirkman|Kirkman]] is getting chummy with people
-	- [[../Characters/NPCs/Desirae|Desirae]] doesn't want to be there
+	- [[../Characters/NPCs/Desaray|Desaray]] doesn't want to be there
 	- [[../Characters/NPCs/Sebastian|Sebastian]] is dressed darker (gothic) and is enjoying themselves a lot
 	- [[../Characters/NPCs/Michael|The unknown person]] goes behind the counter and starts talking with the staff
 - [[../Characters/NPCs/The Butcher|The Butcher]] goes over to speak with [[../Characters/NPCs/Sebastian|Sebastian]]
 	- [[../Characters/NPCs/The Butcher|Tabitha]] uses [[../../Sense the Beast|Sense the Beast]]
 		- [[../Characters/NPCs/Kirkman|Kirkman]]
-		- [[../Characters/NPCs/Desirae|Desirae]]
+		- [[../Characters/NPCs/Desaray|Desaray]]
 		- [[../Characters/NPCs/Sebastian|Sebastian]]
 		- [[../Characters/NPCs/Michael|Unknown person]]
 			- Standard looking
@@ -407,13 +374,13 @@ In an attempt to keep people from leaving the show in fear, [[../Characters/PCs/
 					- She yells to [[../Characters/NPCs/Felix|Felix]] to come check the sculpture out
 					- [[../Characters/NPCs/Felix|Felix]] has a tote bag
 - [[../Characters/PCs/Zeffér|Zeffér]] has lost [[../Characters/PCs/Maggie|Maggie]] in crowd after she went to the tote bag stand
-	- [[../Characters/PCs/Zeffér|Zeffér]] felt a faint pull to go to [[../Characters/NPCs/Desirae|Desirae]] when he saw her due to [[Lingering Kiss|Lingering Kiss]]
+	- [[../Characters/PCs/Zeffér|Zeffér]] felt a faint pull to go to [[../Characters/NPCs/Desaray|Desaray]] when he saw her due to [[Lingering Kiss|Lingering Kiss]]
 	- [[../Characters/PCs/Zeffér|Zeffér]] goes to look for [[../Characters/PCs/Maggie|Maggie]] and finds her huddled in the corner of the room clutching her sculpture with red eyes
 	- She says "Nos on the ceiling", trying to calm down and [[../Characters/PCs/Zeffér|Zeffér]] doesn't understand until she used full sentences and advises him to go look
 	- [[../Characters/PCs/Zeffér|Zeffér]] goes through the staff doors and up to some stairs to the rafters and sees the glowing red eyes and the [[../Characters/NPCs/Styks|Nosferatu]] crawls around easily, its body twisting unnaturally
-- [[../Characters/PCs/Saul|Saul]] looks for an opening to get to [[../Characters/NPCs/Desirae|Desirae]]
-	- [[../Characters/PCs/Saul|Saul]] is approached by [[../Characters/NPCs/Vin|Vin]] in disguise who tells him that [[../Characters/NPCs/Desirae|Desirae]] is really interested in talking to him about his artwork
-	- [[../Characters/PCs/Saul|Saul]] goes to the multimedia room with [[../Characters/NPCs/Desirae|Desirae]]
+- [[../Characters/PCs/Saul|Saul]] looks for an opening to get to [[../Characters/NPCs/Desaray|Desaray]]
+	- [[../Characters/PCs/Saul|Saul]] is approached by [[../Characters/NPCs/Vin|Vin]] in disguise who tells him that [[../Characters/NPCs/Desaray|Desaray]] is really interested in talking to him about his artwork
+	- [[../Characters/PCs/Saul|Saul]] goes to the multimedia room with [[../Characters/NPCs/Desaray|Desaray]]
 - [[../Characters/PCs/Amelia|Amelia]] breaks from the trance when she finds a minute imperfection in the artwork she was looking at
 	- [[../Characters/NPCs/Kirkman|Kirkman]] talks to [[../Characters/PCs/Amelia|Amelia]] [04:09:59](https://www.youtube.com/watch?v=ZN5j4_I3n-k#t=14999.072245)
 		- [[../Characters/NPCs/Michael|Michael]] manages [[../Characters/NPCs/Kirkman|Kirkman]]'s finances
@@ -425,26 +392,26 @@ In an attempt to keep people from leaving the show in fear, [[../Characters/PCs/
 	- There are multiple deeds for the same piece of art (forgeries)
 	- They tell [[../Characters/NPCs/Dean|Dean]] what she saw, who tells her they are swapping around deeds to sell forgeries
 	- [[../Characters/NPCs/Dean|Dean]] hates hearing about [[../../Malkavian|Malkavian]] visions
-- The [[../../Nosferatu|Nosferatu]] in the rafters is looking at [[../Characters/NPCs/Desirae|Desirae]]
-- [[../Characters/NPCs/Desirae|Desirae]] and [[../Characters/PCs/Saul|Saul]] head to a back entrance
-	- [[../Characters/PCs/Maggie|Maggie]] spots a necklace on [[../Characters/NPCs/Desirae|Desirae]] as she walks by and feels a compulsion to take it, deciding if [[../Characters/NPCs/Desirae|Desirae]] doesn't have a head, she won't need a necklace
-	- [[../Characters/PCs/Saul|Saul]] uses [[../../Sense the Beast|Sense the Beast]] and senses [[../Characters/NPCs/Desirae|Desirae]]'s aggressive intent and an intent high above him getting closer
-	- [[../Characters/NPCs/Desirae|Desirae]] reveals she knows its [[../Characters/PCs/Saul|Saul]] from the smell of his char
-- [[../Characters/PCs/Saul|Saul]] tries to stake [[../Characters/NPCs/Desirae|Desirae]] after trying to distract her by giving her his phone
+- The [[../../Nosferatu|Nosferatu]] in the rafters is looking at [[../Characters/NPCs/Desaray|Desaray]]
+- [[../Characters/NPCs/Desaray|Desaray]] and [[../Characters/PCs/Saul|Saul]] head to a back entrance
+	- [[../Characters/PCs/Maggie|Maggie]] spots a necklace on [[../Characters/NPCs/Desaray|Desaray]] as she walks by and feels a compulsion to take it, deciding if [[../Characters/NPCs/Desaray|Desaray]] doesn't have a head, she won't need a necklace
+	- [[../Characters/PCs/Saul|Saul]] uses [[../../Sense the Beast|Sense the Beast]] and senses [[../Characters/NPCs/Desaray|Desaray]]'s aggressive intent and an intent high above him getting closer
+	- [[../Characters/NPCs/Desaray|Desaray]] reveals she knows its [[../Characters/PCs/Saul|Saul]] from the smell of his char
+- [[../Characters/PCs/Saul|Saul]] tries to stake [[../Characters/NPCs/Desaray|Desaray]] after trying to distract her by giving her his phone
 	- Where it should have worked as he hit her straight in the heart, it doesn't
 	- [[../Characters/PCs/Saul|Saul]] attempts to wrestle the gun from her but she shoots and the bullet travels through [[../Characters/PCs/Saul|Saul]]'s palm, up his arm and out the back
-	- [[../Characters/PCs/Maggie|Maggie]] bursts into the room and cuts her dagger halfway through [[../Characters/NPCs/Desirae|Desirae]]'s neck
+	- [[../Characters/PCs/Maggie|Maggie]] bursts into the room and cuts her dagger halfway through [[../Characters/NPCs/Desaray|Desaray]]'s neck
 	- [[../Characters/PCs/Zeffér|Zeffér]] attempts to drop through some plywood in the ceiling to land on top of her and lands in a superhero landing next to her
-	- [[../Characters/NPCs/Styks|The Nosferatu]] shoots a dart into [[../Characters/NPCs/Desirae|Desirae]]'s back
+	- [[../Characters/NPCs/Styks|The Nosferatu]] shoots a dart into [[../Characters/NPCs/Desaray|Desaray]]'s back
 - [[../Characters/NPCs/The Butcher|Tabitha]] moves towards the multimedia rooms and her vision corrects itself and she senses a lot of murderous intent
 	- She goes back to talk to [[../Characters/NPCs/Dean|Dean]]
 - [[../Characters/NPCs/Sebastian|Sebastian]] runs past [[../Characters/NPCs/The Butcher|Tabitha]] at speed, pulls out a submachine gun and begins shooting into the room
 	- [[../Characters/PCs/Saul|Saul]], [[../Characters/PCs/Maggie|Maggie]] and [[../Characters/PCs/Zeffér|Zeffér]] are is hit by a bullet
-	- [[../Characters/PCs/Saul|Saul]] attempts to rip off [[../Characters/NPCs/Desirae|Desirae]]'s head the rest of the way, while spinning her to act as a shield to the gunfire while [[../Characters/PCs/Maggie|Maggie]] attempts to finish the job with her daggers
+	- [[../Characters/PCs/Saul|Saul]] attempts to rip off [[../Characters/NPCs/Desaray|Desaray]]'s head the rest of the way, while spinning her to act as a shield to the gunfire while [[../Characters/PCs/Maggie|Maggie]] attempts to finish the job with her daggers
 	- [[../Characters/PCs/Zeffér|Zeffér]] attempts to knock [[../Characters/NPCs/Sebastian|Sebastian]] back through the door but [[../Characters/NPCs/Sebastian|Sebastian]] zips to the other side of the room and fires again
 		- [[../Characters/PCs/Saul|Saul]] takes 2 shots
 		- [[../Characters/PCs/Maggie|Maggie]] takes 5 shots
-	- [[../Characters/PCs/Saul|Saul]] notices that [[../Characters/NPCs/Desirae|Desirae]] turns into a snake but he rips her head clean off and is left with a snake head
+	- [[../Characters/PCs/Saul|Saul]] notices that [[../Characters/NPCs/Desaray|Desaray]] turns into a snake but he rips her head clean off and is left with a snake head
 		- [[../Characters/PCs/Maggie|Maggie]] takes the necklace off the floor
 	- [[../Characters/PCs/Saul|Saul]] is accidently hit is the unknown [[../../Nosferatu|Nosferatu]]'s dart and goes into [[../../Torpor|Torpor]]
 	- [[../Characters/NPCs/Sebastian|Sebastian]] shoots at [[../Characters/PCs/Maggie|Maggie]] but [[../Characters/PCs/Zeffér|Zeffér]] takes all the bullets as he jumps in front of [[../Characters/PCs/Maggie|Maggie]]
@@ -474,7 +441,7 @@ In an attempt to keep people from leaving the show in fear, [[../Characters/PCs/
 - [[../Characters/NPCs/The Butcher|Tabitha]] receives a call from [[Grace|Grace]]
 - [[../Characters/PCs/Amelia|Amelia]] approaches [[../Characters/NPCs/Dean|Dean]]
 	- [[../Characters/NPCs/Dean|Dean]] says that [[../Characters/NPCs/Oisin|Oisin]] will pay her
-		- [[../Characters/PCs/Amelia|Amelia]] came to the event, which brought [[../Characters/NPCs/Kirkman|Kirkman]], [[../Characters/NPCs/Desirae|Desirae]] and [[../Characters/NPCs/Sebastian|Sebastian]] so that [[../Characters/NPCs/Styks|their Nosferatu operative]] could take out the hunters
+		- [[../Characters/PCs/Amelia|Amelia]] came to the event, which brought [[../Characters/NPCs/Kirkman|Kirkman]], [[../Characters/NPCs/Desaray|Desaray]] and [[../Characters/NPCs/Sebastian|Sebastian]] so that [[../Characters/NPCs/Styks|their Nosferatu operative]] could take out the hunters
 	- [[../Characters/NPCs/Dean|Dean]] tells [[../Characters/PCs/Amelia|Amelia]] that [[../Characters/NPCs/Kirkman|Kirkman]] wasn't doing forgeries after all but changing prices without telling the public but [[../Characters/NPCs/Sarah Border|an old friend]] has sorted it out
 - [[../Characters/NPCs/The Butcher|Tabitha]] attempts a premonition on the bar about [[../Characters/PCs/Amelia|Amelia]] and [[../Characters/NPCs/Dean|Dean]]
 - [[../Characters/PCs/Amelia|Amelia]] uses [[Entrancement|Entrancement]] on [[../Characters/NPCs/Dean|Dean]]
@@ -508,16 +475,3 @@ In an attempt to keep people from leaving the show in fear, [[../Characters/PCs/
 	- Chapter Complete +2
 	- Session Complete +1
 	- Finding the Unknown +1
-# To Do
-- [ ] Meet with someone related to [[../Characters/NPCs/Kirkman|Kirkman]]
-- [x] Meet with [[../Characters/NPCs/Vin|Vin]]
-- [ ] Attempt to get close to [[../Characters/PCs/Amelia|Amelia]] to learn more about [[../Places/LA/index|LA]]
-- [ ] Find Mark 2
-- [ ] Find out why [[../Characters/NPCs/Kirkman|Kirkman]] is at the [[../Events/Art Gallery Opening|opening an art gallery]]
-- [x] Dispose care of the hunters if we find an opportunity
-- [/] Kill [[../Characters/NPCs/Sebastian|Sebastian]] for more information from Vin
-# Questions
-- [ ] Why is [[../Characters/NPCs/Kirkman|Kirkman]] getting money from [[../Places/LA/index|LA]]?
-- [ ] Who in [[../Places/LA/index|LA]] is sponsoring [[../Characters/NPCs/Kirkman|Kirkman]]?
-- [ ] Why did [[The Rat|The Rat]] help [[../Characters/NPCs/Mark 1|Mark 1]]?
-- [ ] Who is [[../Characters/PCs/Saul|Saul]]?
