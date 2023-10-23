@@ -1,6 +1,9 @@
 ---
 tags:
-  - character/npc
+  - character_npc
+  - Vampire
+  - Regatta
+  - Tzimisce
 aliases:
   - Emmitt
   - Crow
@@ -11,6 +14,7 @@ organisations:
 bloodline: "[[Tzimisce|Tzimisce]]"
 species: Vampire
 ---
+
 # Relationships
 | Person      | Relationship | Sentiment | Notes |
 | ----------- | ------------ | --------- | ----- |
@@ -31,3 +35,7 @@ species: Vampire
 
 # Appearances/Mentions
 
+- [[../../Sessions/Session 1|Session 1]] (Active)
+- [[../../Sessions/Session 4|Session 4]] (Active)
+- [[../../Sessions/Session 5|Session 5]] (Active)
+- [[../../Sessions/Session 6|Session 6]] (Active)

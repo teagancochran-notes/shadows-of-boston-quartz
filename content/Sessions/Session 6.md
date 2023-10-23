@@ -1,11 +1,11 @@
 ---
 template-version: 1.1
 recording: https://youtu.be/5srgpalAG3U
+status: linking
 tags:
   - session
-  - status/linking
 date: 2023-01-29
-chapter: ""
+chapter: Voices in the Night
 session: 6
 title: Tech Support
 attended: true
@@ -35,37 +35,11 @@ mentioned-npcs:
   - "[[../Characters/NPCs/Sebastian|Sebastian]]"
   - "[[Susan Sutherland|Susan Sutherland]]"
   - "[[Samson Sutherland|Samson Sutherland]]"
-  - "[[../Characters/NPCs/Desirae|Desirae]]"
+  - "[[../Characters/NPCs/Desaray|Desaray]]"
 ---
 
 > [!previously]- Previously
 > ![[./Session 5#^summary|Session 5 > ^summary]]
-# Characters
-
-| File                                                    | Organisations                         |
-| ------------------------------------------------------- | ------------------------------------- |
-| [[../Characters/NPCs/Damien\|Damien]]                   | [[../Organisations/Regatta\|Regatta]] |
-| [[../Characters/NPCs/Emmitt Delmar\|Emmitt Delmar]]     | [[../Organisations/Regatta\|Regatta]] |
-| [[../Characters/NPCs/Desirae\|Desirae]]                 |                                       |
-| [[../Characters/NPCs/Felix\|Felix]]                     | \-                                    |
-| [[../Characters/NPCs/Hawk\|Hawk]]                       | [[../Organisations/Regatta\|Regatta]] |
-| [[../Characters/NPCs/Kenji\|Kenji]]                     | [[../Organisations/Regatta\|Regatta]] |
-| [[../Characters/NPCs/Lily Mareno\|Lily Mareno]]         |                                       |
-| [[../Characters/NPCs/Louisa Sinclair\|Louisa Sinclair]] | [[../Organisations/Anarchs\|Anarchs]] |
-| [[../Characters/NPCs/Melissa Bourke\|Melissa Bourke]]   |                                       |
-| [[../Characters/NPCs/Oisin\|Oisin]]                     | [[../Organisations/Anarchs\|Anarchs]] |
-| [[../Characters/NPCs/Myers Fuller\|Myers Fuller]]       | [[../Organisations/Anarchs\|Anarchs]] |
-| [[../Characters/NPCs/Owl\|Owl]]                         | [[../Organisations/Regatta\|Regatta]] |
-| [[../Characters/NPCs/Sebastian\|Sebastian]]             | \-                                    |
-| [[../Characters/NPCs/Swan\|Swan]]                       | [[../Organisations/Regatta\|Regatta]] |
-| [[../Characters/NPCs/Trisha\|Trisha]]                   | [[../Organisations/Regatta\|Regatta]] |
-| [[../Characters/NPCs/Werewolf\|Werewolf]]               | \-                                    |
-| [[../Characters/PCs/Maggie\|Maggie]]                    | [[../Organisations/Regatta\|Regatta]] |
-| [[../Characters/PCs/Sasha\|Sasha]]                      | [[../Organisations/Anarchs\|Anarchs]] |
-| [[../Characters/PCs/Saul\|Saul]]                        |                                       |
-| [[../Characters/PCs/Zeffér\|Zeffér]]                    | [[../Organisations/Regatta\|Regatta]] |
-
-
 # Recording
 <iframe width="100%" height="100" src="https://www.youtube.com/embed/5srgpalAG3U?modestbranding=1&rel=0" title="VtM Shadows of Boston - Session 4 - Torpor" frameborder="0"></iframe>
 # Notes
@@ -153,7 +127,7 @@ mentioned-npcs:
 	- [[../Characters/NPCs/Swan|Osana]] says the reports from operatives in the field did indication to who shot [[../Characters/PCs/Saul|Saul]] but says that if left there she doubts they would be able to have this conversation and that he might have been dust 
 	- [[../Characters/PCs/Saul|Saul]] counters "unless I seem more useful to you" but [[../Characters/NPCs/Swan|Osana]] says she meant that was more meaning if left there you would have died 
 	- [[../Characters/PCs/Saul|Saul]] still doesn't believe that the [[../Organisations/Regatta|Regatta]] weren't the ones to shoot him
-	- [[../Characters/NPCs/Swan|Osana]] explains that the [[../Organisations/Regatta|Regatta]] didn't know about [[../Characters/PCs/Saul|Saul]]'s arrival to fight [[../Characters/NPCs/Desirae|Desirae]] and argues they could not plan to hunt something they didn't know about
+	- [[../Characters/NPCs/Swan|Osana]] explains that the [[../Organisations/Regatta|Regatta]] didn't know about [[../Characters/PCs/Saul|Saul]]'s arrival to fight [[../Characters/NPCs/Desaray|Desaray]] and argues they could not plan to hunt something they didn't know about
 - [[../Characters/NPCs/Swan|Osana]] explains that the purpose of the meeting is to see if [[../Characters/PCs/Saul|Saul]] is to be trusted or not
 	- [[../Characters/PCs/Saul|Saul]] says it goes both ways and he believes the [[../Organisations/Regatta|Regatta]] want him to work for them
 	- [[../Characters/NPCs/Swan|Osana]] tells him she does not care either way but that her decision will be based on what is said now and that it isn't looking positive
@@ -856,6 +830,3 @@ mentioned-npcs:
 ## Housekeeping
 +1XP (everyone)
 
-# To Do
-- [ ] Get relic off [[../Characters/NPCs/Louisa Sinclair|Louisa]]'s body for [[../Characters/NPCs/Emmitt Delmar|Crow]]
-# Questions

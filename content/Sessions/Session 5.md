@@ -1,9 +1,9 @@
 ---
 template-version: 1.1
+status: linking
 recording: https://www.youtube.com/watch?v=_xd6sa2bHdg
 tags:
   - session
-  - status/linking
 date: 2023-01-15
 chapter: Voices in the Night
 session: 5
@@ -29,7 +29,7 @@ active-npcs:
 mentioned-npcs:
   - "[[Samson Sutherland|Samson Sutherland]]"
   - "[[../Characters/NPCs/Sophia|Sophie Sutherland]]"
-  - "[[../Characters/NPCs/Desirae|Desirae]]"
+  - "[[../Characters/NPCs/Desaray|Desaray]]"
   - "[[../Characters/NPCs/Dean|Dean]]"
   - "[[../Characters/NPCs/Oisin|Oisin]]"
 ---
@@ -37,35 +37,6 @@ mentioned-npcs:
 > ![[./Session 4#^summary|Session 4 > ^summary]]
 
 # Summary
-^summary
-# Characters
-
-| File                                                    | Organisations                             |
-| ------------------------------------------------------- | ----------------------------------------- |
-| [[../Characters/NPCs/Damien Hausberg\|Damien Hausberg]] | \-                                        |
-| [[../Characters/NPCs/Damien\|Damien]]                   | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Dean\|Dean]]                       | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/NPCs/Emmitt Delmar\|Emmitt Delmar]]     | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Desirae\|Desirae]]                 |                                           |
-| [[../Characters/NPCs/Felix\|Felix]]                     | \-                                        |
-| [[../Characters/NPCs/Kiki\|Kiki]]                       |                                           |
-| [[../Characters/NPCs/Kirkman\|Kirkman]]                 | [[../Organisations/Camarilla\|Camarilla]] |
-| [[../Characters/NPCs/Louisa Sinclair\|Louisa Sinclair]] | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/NPCs/Mark 1\|Mark 1]]                   | \-                                        |
-| [[../Characters/NPCs/Oisin\|Oisin]]                     | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/NPCs/Myers Fuller\|Myers Fuller]]       | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/NPCs/Sarah Border\|Sarah Border]]       |                                           |
-| [[../Characters/NPCs/Sophia\|Sophia]]                   | \-                                        |
-| [[../Characters/NPCs/Swan\|Swan]]                       | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Trisha\|Trisha]]                   | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Yasmin\|Yasmin]]                   | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/PCs/Amelia\|Amelia]]                    |                                           |
-| [[../Characters/PCs/Maggie\|Maggie]]                    | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/PCs/Sasha\|Sasha]]                      | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/PCs/Saul\|Saul]]                        |                                           |
-| [[../Characters/PCs/Zeffér\|Zeffér]]                    | [[../Organisations/Regatta\|Regatta]]     |
-
-
 # Recording
 <iframe width="100%" height="100" src="https://www.youtube.com/embed/_xd6sa2bHdg?modestbranding=1&rel=0" title="VtM Shadows of Boston - Session 4 - Torpor" frameborder="0"></iframe>
 
@@ -277,7 +248,7 @@ mentioned-npcs:
 			- [[../Characters/PCs/Maggie|Maggie]] says they are still figuring out what to do with them
 			- [[../Characters/PCs/Saul|Saul]] says that it seems like they have a better plan in place than he did
 			- [[../Characters/PCs/Maggie|Maggie]] tells him that unfortunately many have passed
-			- [[../Characters/PCs/Saul|Saul]] blames [[../Characters/NPCs/Desirae|Desirae]], "the headless snake"
+			- [[../Characters/PCs/Saul|Saul]] blames [[../Characters/NPCs/Desaray|Desaray]], "the headless snake"
 	- [[../Characters/PCs/Maggie|Maggie]] tells [[../Characters/PCs/Saul|Saul]] she doesn't want to lead him around like a dog on a lash but other may have other plans for him
 		- [[../Characters/PCs/Maggie|Maggie]] tells [[../Characters/PCs/Saul|Saul]] that if he does accept the offer she can try and get him as much freedom as she can but cannot make promises but require loyalty
 		- [[../Characters/PCs/Saul|Saul]] asks for [[../Characters/NPCs/Damien Hausberg|Damien]] to be taken out of the room
@@ -554,6 +525,3 @@ mentioned-npcs:
 
 # Gameplay
 +1XP
-# To Do
-
-# Questions
