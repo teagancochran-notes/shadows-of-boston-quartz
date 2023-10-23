@@ -1,9 +1,9 @@
 ---
 template-version: 1.1
+status: incomplete
 recording: https://www.youtube.com/watch?v=JIPmNnXnG8A
 tags:
   - session
-  - status/incomplete
 date: 
 chapter: A Night to Remember
 session: 3
@@ -20,16 +20,8 @@ mentioned-npcs:
 > ![[./Session 2#^summary|Session 2 > ^summary]]
 
 # Summary
-nil ^summary
-# Characters
-| File                                            | Organisations |
-| ----------------------------------------------- | ------------- |
-| [[../Characters/NPCs/The Butcher\|The Butcher]] |               |
-
+nil
 # Recording
-<audio src="C:/Users/Teagan/OneDrive/Documents/Games/Vampire Recordings/Session 3.mp3" controls></audio>
+<iframe width="100%" height="100" src="https://www.youtube.com/embed/JIPmNnXnG8A?modestbranding=1&rel=0" title="VtM Shadows of Boston - Session 4 - Torpor" frameborder="0"></iframe>
 # Notes
 
-# To Do
-
-# Questions
