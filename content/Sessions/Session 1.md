@@ -1,9 +1,9 @@
 ---
 template-version: 1.1
+status: processed
 recording: https://www.youtube.com/watch?v=qZFgTYo4MV4
 tags:
   - session
-  - status/processed
 date: 2021-12-11
 chapter: A Night to Remember
 session: 1
@@ -34,37 +34,16 @@ active-npcs:
 ---
 # Summary
 The [[../Organisations/Regatta|Regatta]] held a meeting at [[../Places/Boston/Regatta HQ#Council Room|HQ]] to discuss [[../Characters/NPCs/Kirkman|Kirkman]]'s increasing influence in [[../Places/Boston/index|Boston]]. While [[../Characters/NPCs/Owl|Owl]] wants to take out key targets to stamp out his influence, [[../Characters/NPCs/Hawk|Hawk]] wants to let the [[../Organisations/Camarilla|Camarilla]] into the city to take the place of the [[../Organisations/Anarchs|Anarchs]]. [[../Characters/NPCs/Emmitt Delmar|Crow]] suggested that [[../Characters/NPCs/Kirkman|Kirkman]] may be biding his time and suggests to send out a survey party to understand his intentions. [[B|B]] experiences a vision. [[../Characters/NPCs/Swan|Swan]] decided to go with [[../Characters/NPCs/Emmitt Delmar|Crow]]'s plan.
-<br/>
-[[../Characters/PCs/Maggie|Maggie]] and [[../Characters/PCs/Zeffér|Zeffér]] are sent to escort [[../Places/LA/index|LA]] star [[../Characters/PCs/Amelia|Amelia]] to [[../Characters/NPCs/Kirkman|Kirkman]]'s 100th birthday party and for [[../Characters/PCs/Maggie|Maggie]] to deliver some documents to on behalf of [[../Characters/NPCs/Emmitt Delmar|Crow]] as well as gather intel. At the party, [[../Characters/PCs/Maggie|Maggie]] overhears some chatter about a shell company called [[Ownark|Ownark]] and witnesses [[../Characters/NPCs/Yasmin|Yasmin]] giving [[../Characters/NPCs/Kirkman|Kirkman]] a ringed finger as a gift, which he is unhappy about.
-<br/>
-When [[../Characters/NPCs/Kirkman|Kirkman]] returns from calming down he announces the entertainment for the evening is a hunt of humans that have been brought to stay in the hotel rooms above. [[../Characters/PCs/Maggie|Maggie]] passes information from [[../Characters/NPCs/Emmitt Delmar|Crow]] onto [[../Characters/NPCs/Kirkman|Kirkman]] as requested and is given a key to the private elevator.
-<br/>
-She heads up the elevator before they open the main doors for the rest of the guests. When she reaches the fourth floor, she sees [[Saul |a kindred]] blocking the main door and closes the elevator doors. [[Saul | The unknown kindred]] rips the doors open to find a dagger at his neck. He states his intention to save the humans and warns [[../Characters/PCs/Maggie|Maggie]] not to get in his way and offers a boon if she will help him. [[../Characters/PCs/Maggie|Maggie]] calls HQ to get her next steps and helps [[../Characters/PCs/Saul|the kindred]] by giving him one person and leaves him a business card. When the main doors open, she leaves the party.
-<br/>
-[[../Characters/PCs/Maggie|Maggie]] later meets [[../Characters/PCs/Saul|a kindred]] by the river, having tracked him via the tracker in the business card. She tells him that she will leave something at this spot when she needs him in the future. ^summary
-# Characters
-| Character                                                         | Organisations                             |
-| ----------------------------------------------------------------- | ----------------------------------------- |
-| [[../Characters/NPCs/Felix\|Felix]]                               | \-                                        |
-| [[../Characters/NPCs/Sophia\|Sophia]]                             | \-                                        |
-| [[../Characters/NPCs/Emmitt Delmar\|Emmitt Delmar]]               | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Hawk\|Hawk]]                                 | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Owl\|Owl]]                                   | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Swan\|Swan]]                                 | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Trisha\|Trisha]]                             | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/PCs/Maggie\|Maggie]]                              | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/PCs/Zeffér\|Zeffér]]                              | [[../Organisations/Regatta\|Regatta]]     |
-| [[../Characters/NPCs/Dollar Store Sheriff\|Dollar Store Sheriff]] | [[../Organisations/Camarilla\|Camarilla]] |
-| [[../Characters/NPCs/Kirkman\|Kirkman]]                           | [[../Organisations/Camarilla\|Camarilla]] |
-| [[../Characters/NPCs/Dean\|Dean]]                                 | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/NPCs/Oisin\|Oisin]]                               | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/NPCs/Yasmin\|Yasmin]]                             | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/PCs/Sasha\|Sasha]]                                | [[../Organisations/Anarchs\|Anarchs]]     |
-| [[../Characters/PCs/Amelia\|Amelia]]                              |                                           |
-| [[../Characters/PCs/Saul\|Saul]]                                  |                                           |
 
+[[../Characters/PCs/Maggie|Maggie]] and [[../Characters/PCs/Zeffér|Zeffér]] are sent to escort [[../Places/LA/index|LA]] star [[../Characters/PCs/Amelia|Amelia]] to [[../Characters/NPCs/Kirkman|Kirkman]]'s 100th birthday party and for [[../Characters/PCs/Maggie|Maggie]] to deliver some documents to on behalf of [[../Characters/NPCs/Emmitt Delmar|Crow]] as well as gather intel. At the party, [[../Characters/PCs/Maggie|Maggie]] overhears some chatter about a shell company called [[Ownark|Ownark]] and witnesses [[../Characters/NPCs/Yasmin|Yasmin]] giving [[../Characters/NPCs/Kirkman|Kirkman]] a ringed finger as a gift, which he is unhappy about.
+
+When [[../Characters/NPCs/Kirkman|Kirkman]] returns from calming down he announces the entertainment for the evening is a hunt of humans that have been brought to stay in the hotel rooms above. [[../Characters/PCs/Maggie|Maggie]] passes information from [[../Characters/NPCs/Emmitt Delmar|Crow]] onto [[../Characters/NPCs/Kirkman|Kirkman]] as requested and is given a key to the private elevator.
+
+She heads up the elevator before they open the main doors for the rest of the guests. When she reaches the fourth floor, she sees [[Saul |a kindred]] blocking the main door and closes the elevator doors. [[Saul | The unknown kindred]] rips the doors open to find a dagger at his neck. He states his intention to save the humans and warns [[../Characters/PCs/Maggie|Maggie]] not to get in his way and offers a boon if she will help him. [[../Characters/PCs/Maggie|Maggie]] calls HQ to get her next steps and helps [[../Characters/PCs/Saul|the kindred]] by giving him one person and leaves him a business card. When the main doors open, she leaves the party.
+
+[[../Characters/PCs/Maggie|Maggie]] later meets [[../Characters/PCs/Saul|a kindred]] by the river, having tracked him via the tracker in the business card. She tells him that she will leave something at this spot when she needs him in the future.
 # Recording
-<audio src="C:/Users/Teagan/OneDrive/Documents/Games/Vampire Recordings/Session 1.mp3" controls></audio>
+<iframe width="100%" height="100" src="https://www.youtube.com/embed/qZFgTYo4MV4?modestbranding=1&rel=0" title="VtM Shadows of Boston - Session 4 - Torpor" frameborder="0"></iframe>
 # Notes
 ## 1 Week Ago
 * Meeting between [[../Organisations/Anarchs|Anarchs]] in the centre of Boston
@@ -74,7 +53,7 @@ She heads up the elevator before they open the main doors for the rest of the gu
 * [[../Characters/NPCs/Yasmin|Yasmin]]
 * [[../Characters/NPCs/Kirkman|Kirkman]]'s birthday is in a week's time
 ## 4 Day To Present Day
-**Location**:: [[../Places/Boston/Regatta HQ|Regatta HQ]], [[Regatta HQ Council Room|Regatta HQ Council Room]]
+**Location**:: [[Regatta HQ|Regatta HQ]], [[Regatta HQ Council Room|Regatta HQ Council Room]]
 
 [[../Characters/NPCs/Kirkman|Kirkman]]
 
@@ -94,7 +73,7 @@ She heads up the elevator before they open the main doors for the rest of the gu
 		Believes [[../Characters/NPCs/Kirkman|Kirkman]] is biding his time
 		Have time to scout out
 
-[[B|B]]
+[[../Characters/NPCs/Owl|Owl]]
 	[[../../Malkavian|Malkavian]]
 	Vision: seen a web, someone tried up bound at the centre, dog trying to free them, wolf somewhere, loyal cutting ties
 
@@ -204,22 +183,4 @@ Met [[../Characters/PCs/Saul|a kindred]] by the river
 	Tracked him with a tracking chip in the business card
 	Told him I'd leave something at this spot when we need to talk next
 	Gave him a proper business card
-
-# To Do
-- [x] Assignment
-	- [x] Envelope needs to be shown to Kirkman
-			enticing opportunities
-			cannot look
-	- [x] Escort [[../Characters/NPCs/Emmitt Delmar|Crow]]'s old friend to the party
-- [ ] Try to find out what bloodline [[../Characters/PCs/Zeffér|Zeffér]] has
-- [ ] What is [[Ownark|Ownark]]?
-
-# Questions
-- [ ] What bloodline is [[../Characters/PCs/Zeffér|Zeffér]] and [[../Characters/NPCs/Swan|Swan]]?
-- [ ] What bloodline is [[../Characters/PCs/Amelia|Amelia]]?
-- [ ] What bloodline is [[../Characters/PCs/Sasha|Sasha]]?
-- [ ] What bloodline is [[../Characters/NPCs/Kirkman|Kirkman]]?
-- [ ] What bloodline is [[../Characters/NPCs/Dean|Dean]]?
-- [ ] What bloodline is [[../Characters/NPCs/Yasmin|Yasmin]]?
-- [ ] Why did the [[../Organisations/Camarilla|Camarilla]] risk the Masquerade with the hunt?
 
