@@ -1,6 +1,9 @@
 ---
 tags:
-  - character/npc
+  - character_npc
+  - Vampire
+  - Anarchs
+  - Brujah
 aliases:
   - Timber
 organisations:
@@ -8,6 +11,7 @@ organisations:
 bloodline: "[[Brujah|Brujah]]"
 species: Vampire
 ---
+
 # Notes
 ## [[../../Sessions/Session 1|Session 1]]
 * Irish
@@ -25,3 +29,8 @@ species: Vampire
 
 # Appearances/Mentions
 
+- [[../../Sessions/Session 1|Session 1]] (Active)
+- [[../../Sessions/Session 2|Session 2]] (Mentioned)
+- [[../../Sessions/Session 4|Session 4]] (Mentioned)
+- [[../../Sessions/Session 5|Session 5]] (Mentioned)
+- [[../../Sessions/Session 6|Session 6]] (Active)
