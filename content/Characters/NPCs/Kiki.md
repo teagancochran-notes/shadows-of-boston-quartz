@@ -1,14 +1,16 @@
 ---
-tags: character/npc
-organisations: []
+tags:
+  - character_npc
+  - Human
+organisations: 
 species: Human
-status: alive
 ---
+
 
 # Notes
 - [[../../Sessions/Session 2|Session 2]]
 	- Assists [[../PCs/Sasha|Sasha]] locating [[./Damien Hausberg|Damien]]
-	- Fought [[./Desirae|Desirae]]
+	- Fought [[./Desaray|Desaray]]
 	- Meets [[../PCs/Zeffér|Zeffér]]
 	- Attacks [[../PCs/Saul|Saul]]
 	- Becomes [[../PCs/Saul|Saul]]'s acquaintance
@@ -21,6 +23,9 @@ status: alive
 	- Introduces [[../PCs/Saul|Saul]] to [[../../Items/Marrowbrew|Marrowbrew]]
 # Appearances/Mentions
 
+- [[../../Sessions/Session 2|Session 2]] (Active)
+- [[../../Sessions/Session 4|Session 4]] (Active)
+- [[../../Sessions/Session 5|Session 5]] (Active)
 
 ```query
 path:Sessions  Kiki
