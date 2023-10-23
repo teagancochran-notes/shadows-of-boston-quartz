@@ -10,3 +10,4 @@ species:
 
 # Appearances/Mentions
 
+- [[../../Sessions/Session 6|Session 6]] (Active)
