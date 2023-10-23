@@ -7,7 +7,7 @@ tags: MOC/1
 	- [[./NPCs/Damien Hausberg|Damien Hausberg]]
 	- [[./NPCs/Damien|Damien]]
 	- [[./NPCs/Dean|Dean]]
-	- [[./NPCs/Desirae|Desirae]]
+	- [[./NPCs/Desaray|Desaray]]
 	- [[./NPCs/Dollar Store Sheriff|Dollar Store Sheriff]]
 	- [[./NPCs/Emmitt Delmar|Emmitt Delmar]]
 	- [[./NPCs/Felix|Felix]]
