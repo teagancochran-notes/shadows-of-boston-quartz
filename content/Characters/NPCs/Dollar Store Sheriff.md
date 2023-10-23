@@ -1,9 +1,12 @@
 ---
 tags: character/npc
-aliases: ["Dollar Store Sheriff"]
-organisations: ["[[../../Organisations/Camarilla|Camarilla]]"]
+aliases:
+  - Dollar Store Sheriff
+organisations:
+  - "[[../../Organisations/Camarilla|Camarilla]]"
 species: Vampire
 ---
+
 
 # Notes
 **[[../../Sessions/Session 1|Session 1]]**
@@ -12,3 +15,5 @@ species: Vampire
 	- Implied that he is being held captive rather than killed as finger has not 
 # Appearances/Mentions
 
+- [[../../Sessions/Session 1|Session 1]] (Mentioned)
+- [[../../Sessions/Session 4|Session 4]] (Mentioned)
